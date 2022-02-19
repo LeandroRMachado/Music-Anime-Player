@@ -9,7 +9,19 @@ const title = document.querySelector('#title')
 const cover = document.querySelector('#cover')
 
 // Song titles
-const songs = ['naruto', 'bleachEndingMovie1', 'onepieceWeare', 'fairytail']
+const songs = [
+  'naruto',
+  'bleachEndingMovie1',
+  'onepieceWeare',
+  'fairytail',
+  'InuyashaAbertura',
+  'FullmetalOpening4',
+  'onepieceOp23',
+  'nanatsuNoTaizaiOp',
+  'kurokoNoBasketballOp',
+  'deathNoteOp',
+  'swordArtOnline'
+]
 
 // Keep track of songs
 
