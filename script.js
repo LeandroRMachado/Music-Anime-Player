@@ -20,7 +20,9 @@ const songs = [
   'nanatsuNoTaizaiOp',
   'kurokoNoBasketballOp',
   'deathNoteOp',
-  'swordArtOnline'
+  'swordArtOnline',
+  'bleachOp9',
+  'bleachOp5'
 ]
 
 // Keep track of songs
