@@ -22,7 +22,8 @@ const songs = [
   'deathNoteOp',
   'swordArtOnline',
   'bleachOp9',
-  'bleachOp5'
+  'bleachOp5',
+  'onePieceOp11'
 ]
 
 // Keep track of songs
